@@ -22,9 +22,9 @@ Feature: FEATURE1 To test checkout feature of Sample Site on Mobile and UI
   #| Sauce Labs Fleece Jacket |  |
 
 
-#  Scenario: FEATURE1 Verify incorrect selection of item
+#  Scenario: FEATURE1 Verify incorrect selection of items
 #    Given that I navigate SauceDemo Home
-#      Then I verify that I have landed correctly on the page
+#      Then I verify that I have landed correctly on the pages
 #    When I login as "standard_user"
 #      Then I verify that I have logged in successfully
 #    When I select a non-existent item "ABC"
