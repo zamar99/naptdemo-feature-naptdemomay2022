@@ -1,0 +1,6 @@
+{
+  "url": "/inventory-item.html",
+  "verify_page": "xpath, //div[@class='inventory_details_name large_size']",
+  "itemName": "xpath, //div[@class='inventory_details_name large_size'][text()='{arg1}']",
+  "buttonAddToCart": "id, add-to-cart-sauce-labs-backpack"
+}

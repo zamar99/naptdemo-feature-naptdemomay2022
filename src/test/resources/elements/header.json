@@ -1,0 +1,3 @@
+{
+  "buttonViewCart": "xpath, //a[@class='shopping_cart_link']/span||xpath,//a[@class='shopping_cart_link']"
+}

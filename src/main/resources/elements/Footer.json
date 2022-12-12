@@ -1,0 +1,3 @@
+{
+"Footer_LearnMore": "xpath,//*[@class='footer-links']//ul[4]//li[6]//a"
+}

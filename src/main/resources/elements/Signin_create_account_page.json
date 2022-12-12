@@ -1,0 +1,17 @@
+{
+  "verify_page": "xpath, //h3[contains(text(),'Your personal information')]",
+  "signin_button": "id,btn-sign-in || xpath,//button[@value='Sign In']",
+  "signin_email": "id,login-email || id,email",
+  "signin_password": "id,login-password || id,signin-password",
+  "CreateAccount_FullName": "id,fullName",
+  "CreateAccout_Email": "id,email",
+  "CreateAccount_ConfirmEmail": "id,confirmEmail",
+  "CreateAccount_Password": "id,password",
+  "CreateAccount_ConfirmPassword": "id,confirmPassword",
+  "CreateAccount_Button": "xpath,//form//button[contains(text(),'Create An Account')]",
+  "CreateAccount_Month": "id,birthdate.ageValidationBirthmonth",
+  "CreateAccount_Day": "id,birthdate.ageValidationBirthday",
+  "CreateAccount_Year": "id,birthdate.ageValidationBirthyear",
+  "CreateAccount_SelectCheckbox": "id,shoppingFor1",
+  "CreateAccout_SelectRelation": "id,relation"
+}

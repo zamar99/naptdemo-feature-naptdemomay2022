@@ -1,0 +1,3 @@
+{
+  "shopping_cart_page_applynow": "xpath,//a[@alt='apply now']"
+}

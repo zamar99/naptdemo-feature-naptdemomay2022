@@ -1,0 +1,7 @@
+{
+  "eBayLogo": "xpath,//*[@id='gh-la']||xpath,//img[@role='presentation']",
+  "inputSearch": "id,gh-ac||id,kw",
+  "buttonSearch": "id,gh-btn||xpath,//button[@class='gh-search__submitbtn']",
+  "listSearchResults": "xpath,//h3[@class='s-item__title'] || className,s-item__title",
+  "buttonCart": "xpath,//a[@href='https://cart.payments.ebay.com/sc/view']||xpath,//a[@class='gh-header-item__icon-link gh-header-item__cart']"
+}

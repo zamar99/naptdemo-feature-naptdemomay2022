@@ -1,0 +1,7 @@
+{
+  "PIP_page_applynow": "xpath,//*[@class='rewards-messaging']//a[1]",
+  "select_attribute": "xpath,//a[text()='Hardwired']",
+  "add_quantity": "xpath,//input[@id='skuQuantity_primaryGroup_0_0']",
+  "addtocart":"id,primaryGroup_addToCart_0",
+  "checkoutbutton": "xpath,//div[@class='totals-block-buttons']/div[2]/a"
+}

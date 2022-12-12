@@ -1,0 +1,5 @@
+{
+  "url": "",
+  "verify_page": "xpath, //span[@class='title'][text()='Checkout: Complete!']",
+  "thankyou": "xpath, //h2[@class='complete-header'][text()='THANK YOU FOR YOUR ORDER']"
+}

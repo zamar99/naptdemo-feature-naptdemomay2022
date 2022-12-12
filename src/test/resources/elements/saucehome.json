@@ -1,0 +1,7 @@
+{
+  "url": "https://www.saucedemo.com",
+  "verify_page": "xpath,//div[@class='login_logo']",
+  "textBox_userId": "id, user-name||xpath, //*[@id='user-name']",
+  "textBox_password": "id, password",
+  "button_login": "id, login-button"
+}

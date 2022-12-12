@@ -1,0 +1,3 @@
+{
+  "ApplyNow_keyRewards": "xpath,//*[@class=\"button-loyalty button-loyalty-gold creditLink ta-cardholder-apply-now\"]"
+}

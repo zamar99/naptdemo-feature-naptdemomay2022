@@ -1,0 +1,5 @@
+{
+  "menuIcon": "xpath,//android.widget.ImageButton[@content-desc='{arg1}']",
+  "menuItem": "xpath,//android.widget.TextView[@content-desc='{arg1}']",
+  "bookmark": "xpath,//android.widget.TextView[@text='www.saucedemo.com']"
+}

@@ -1,0 +1,18 @@
+
+{
+  "verify_page": "id, nebula_div_btn",
+  "popUp": "xpath,//a[@class=\"overlayCloseButton overlayCloseX\"]",
+  "FooterApplyNow": "xpath,//*[@id=\"footer-container\"]//ul[4]//li[5]//a || xpath,//div[@id='footer-content']/div[3]/ul//a[text()='Apply Now']",
+  "myAccount_link": "xpath,//a[@class=\"user-account-link\"]",
+  "myAccount_ApplyNow": "xpath,//li[@class=\"cc-apply-now\"]",
+  "VP_validate": "xpath,//*[@id=\"cclanding\"]",
+  "VP_ApplyNow_Button": "xpath,(//*[@id=\"apply-buttons\"])[1] || xpath,//area[@title='Reward yourself! Start saving when you open and use your Pottery Barn Credit Card. (No annual fee!*) Apply now']",
+  "advanced_button": "id,details-button",
+  "proceed_link": "id,proceed-link",
+  "VP_WE_validate": "xpath,//img[@title='WECC_about_desktop_header']",
+  "VP_WE_ApplyNow_Button": "xpath,//a[text()='Apply For A Card']",
+  "scrollbtn": "xpath,//img[@class='section-jump-image']",
+  "KeyRewards_Link": "xpath,//*[@class=\"key-rewards-link\"]/a",
+  "headerIcon_Mobile": "xpath,//*[@class='header-icon open-shop']",
+  "signIn_Mobile": "xpath,//*[@class='shop-side-site-link '][1]//a"
+}

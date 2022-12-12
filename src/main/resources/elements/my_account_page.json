@@ -1,0 +1,6 @@
+{
+  "verify_page": "xpath, //span[@class='navigation_page'] || xpath, //h1[@class='page-heading']",
+  "myAccount_menu": "xpath,//*[@class=\"user-account-link\"] || xpath,//li[@id='my-account-link']/a",
+  "myAccount_applynow": "xpath,//*[contains(@class,'nav-myaccount')]//div//ul//li[@class=\"cc-apply-now\"]",
+  "myAccount_signin": "xpath,//*[@class=\"nav-columns nav-myaccount equalizeHeights hoverFadeTarget\"]//div//ul//li[@class=\"sign-in\"] || xpath,//li[@class='sign-in c-header-dropdown-menu__item']/a || xpath,//a[@class='btn-sign-in']"
+}

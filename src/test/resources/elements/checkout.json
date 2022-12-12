@@ -1,0 +1,8 @@
+{
+  "url": "/checkout-step-one.html",
+  "verify_page": "xpath, //span[@class='title'][text()='Checkout: Your Information']",
+  "textboxFirstName": "id, first-name",
+  "textboxLastName": "id, last-name",
+  "textboxZipCode": "id, postal-code",
+  "buttonContinue": "id, continue"
+}

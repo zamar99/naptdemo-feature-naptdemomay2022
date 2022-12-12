@@ -1,0 +1,5 @@
+{
+  "url": "https://www.saucedemo.com/inventory.html",
+  "verify_page": "xpath, //div[@class='inventory_item_name']",
+  "li_inventoryItem": "xpath, //div[@class='inventory_item_name'][text()='{arg1}']"
+}

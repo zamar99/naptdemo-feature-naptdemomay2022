@@ -1,0 +1,4 @@
+{
+  "Search_textbox": "xpath,//*[@id='search-field']",
+  "Search_image": "id,btnSearch || class,search-button"
+}

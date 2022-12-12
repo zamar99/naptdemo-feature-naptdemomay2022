@@ -1,0 +1,6 @@
+{
+  "url": "/checkout-step-two.html",
+  "verify_page": "xpath, //span[@class='title'][text()='Checkout: Overview']",
+  "itemName": "xpath, //div[@class='inventory_item_name'][text()='{arg1}']",
+  "buttonFinish": "id, finish"
+}

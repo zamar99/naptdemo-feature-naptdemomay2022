@@ -1,0 +1,4 @@
+{
+  "itemName": "xpath,//h1[@itemprop='name']/span",
+  "buttonAddToCart": "id,isCartBtn_btn||id,vi-cart-button"
+}
