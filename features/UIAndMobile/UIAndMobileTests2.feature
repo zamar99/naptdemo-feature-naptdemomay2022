@@ -1,6 +1,6 @@
 Feature: FEATURE2 To test checkout feature of Sample Site on Mobile and UI
 
-    @DemoSite
+    @DemoSite @Hami
     Scenario Outline: FEATURE2 Verify checkout flow of SauceDemo Site
     Given that I navigate SauceDemo Home
       Then I verify that I have landed correctly on the page
