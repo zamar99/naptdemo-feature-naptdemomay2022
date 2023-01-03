@@ -1,6 +1,6 @@
   Feature: Test feature
 
-  @get @api
+  @get
   Scenario: APITESTS2 GET Scenario
   Given that param "headers.contentType" is set to value "application/json"
   Given that param "base_url.url" is set to value "https://reqres.in"
